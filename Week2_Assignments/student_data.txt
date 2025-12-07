@@ -1,0 +1,5 @@
+Ravi, Data science, 92
+Rahul, Computer Science, 56
+smruti, AI, 89
+Laksh, Physics, 36
+Meera, Maths, 98
